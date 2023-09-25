@@ -33,3 +33,4 @@ if __name__ == "__main__":
     password_length = 12
     generated_password = generate_password(password_length)
     print("Generated Password:", generated_password)
+# add password
