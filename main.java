@@ -41,6 +41,8 @@ public class pass {
 
     }
 
+// n^2 time taking the code will run 
+
     public static String shuffleString(String input) {
         char[] characters = input.toCharArray();
         for (int i = 0; i< characters.length; i++) {
