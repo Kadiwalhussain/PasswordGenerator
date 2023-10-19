@@ -40,8 +40,7 @@ public class pass {
         return shuffleString(password.toString());
 
     }
-
-// n^2 time taking the code will run 
+//updated 
 
     public static String shuffleString(String input) {
         char[] characters = input.toCharArray();
