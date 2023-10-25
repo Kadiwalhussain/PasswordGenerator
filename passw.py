@@ -28,6 +28,8 @@ def generate_password(length):
 
     random.shuffle(password)
     return ''.join(password)
+    
+    # we cam hack the system
 
 if __name__ == "__main__":
     password_length = 12
