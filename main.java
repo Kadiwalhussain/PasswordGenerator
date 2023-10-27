@@ -1,3 +1,4 @@
+
 import java.security.SecureRandom;
 import java.util.Random;
 public class pass {
@@ -40,7 +41,7 @@ public class pass {
         return shuffleString(password.toString());
 
     }
-//updated 
+
 
     public static String shuffleString(String input) {
         char[] characters = input.toCharArray();
